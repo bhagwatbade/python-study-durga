@@ -1,0 +1,6 @@
+print('Python as scripting language')
+print('Python as scripting language')
+print('Python as scripting language')
+print('Python as scripting language')
+print('Python as scripting language')
+print('Python as scripting language')
